@@ -1,3 +1,1 @@
-module github.com/rksmannem/testmod
-
-go 1.12
+module github.com/rksmannem/testmod/v2
